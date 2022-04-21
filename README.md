@@ -25,4 +25,7 @@ Referência para usar Sequelize:
 
 <a>https://sequelize.org/docs/v6/getting-started/</a>
 
+Link do curso:
+
+<a>https://cursos.alura.com.br/course/orm-nodejs-api-sequelize-mysql</a>
 
