@@ -20,6 +20,7 @@ Amostra de API, criada no modelo MVC, funcionando no navegador:
 > 
 > MySQL
 
+<br>
 Referência para usar Sequelize:
 
 <a>https://sequelize.org/docs/v6/getting-started/</a>
